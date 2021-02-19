@@ -1,5 +1,7 @@
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=milkguy)](https://github.com/milkguy/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=milkguy=github-readme-stats)](https://github.com/milkguy/github-readme-stats)
+
 
 <!--
 **milkguy/milkguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
