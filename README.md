@@ -1,5 +1,7 @@
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=milkguy)](https://github.com/milkguy/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milkguy)](https://github.com/milkguy/github-readme-stats)
 
 <!--
