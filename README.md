@@ -3,11 +3,10 @@
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
-<p align = "center">
+
 [![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=milkguy)](https://github.com/anuraghazra/github-readme-stats)
 
  
-</p>
 </details>
 
 
