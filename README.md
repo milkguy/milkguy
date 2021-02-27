@@ -3,8 +3,7 @@
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
-！[Anurag的GitHub统计信息]（https://github-readme-stats.vercel.app/api？username = milkguy＆show_icons = true＆theme = radical）
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=milkguy)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </details>
