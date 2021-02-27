@@ -7,7 +7,7 @@
 [![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=milkguy&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milkguy)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milkguy&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
