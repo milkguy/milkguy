@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently learning in Inner Mongolia University of Science&Technology
+- 🔭 I’m currently learning in Beijing University of Posts and Telecommunications
 - 🌱 I’m currently learning blockchain
 - 📫 How to reach me: 26329510@qq.com
 <details open>
